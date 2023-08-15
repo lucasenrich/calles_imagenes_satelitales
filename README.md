@@ -1,4 +1,4 @@
-# Detección automática de calles sin pavimentar en zonas urbanas del Conurbano Bonaerense mediante aprendizaje automático aplicado a imágenes satelitales multiespectrales
+# Detección automática de calles sin pavimentar en zonas urbanas con aprendizaje automático aplicado a imágenes satelitales
 El código contiene:
 
 *  El proceso de ETL en una notebook de python que permite extraer los datos de Sentinel2 utilizando la API Python de GoogleEarth (ETL - Extraccion Rasters.ipynb).  
